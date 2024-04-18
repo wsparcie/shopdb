@@ -7,7 +7,7 @@
 
 **[sample project]**
 
-*used libraries:*
+*used packages:*
 
 * [colorama](https://pypi.org/project/colorama/)
 
