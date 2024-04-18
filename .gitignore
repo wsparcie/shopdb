@@ -1,0 +1,7 @@
+/.vscode/
+/__pycache__/
+/pyvenv.cfg
+/Include/
+/Lib/
+/Scripts/
+/shopdb.ico
