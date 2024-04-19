@@ -18,5 +18,3 @@
 * [colorama](https://pypi.org/project/colorama/)
 
 * [bcrypt](https://pypi.org/project/bcrypt/)
-
-.exe built with [nuitka](https://pypi.org/project/Nuitka/)
