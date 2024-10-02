@@ -13,7 +13,7 @@
 
 **[sample project]**
 
-simple shop themed database console program with automated data generation and secured login system :3 [very simple]
+simple shop themed database console program with automated data generation and secured login system :3
 
 Python 3.12 required
 
