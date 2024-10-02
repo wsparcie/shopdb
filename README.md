@@ -13,6 +13,8 @@
 
 **[sample project]**
 
+simple shop themed database with automated data generation and secured login system :3 [very simple]
+
 Python 3.12 required
 
 *used packages:*
