@@ -11,7 +11,7 @@
                 ██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║              
                 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝              
 
-**[sample project]**
+**ShopDataMaster**
 
 A simple console-based shop management program featuring automated data generation and a secure login system :3
 
