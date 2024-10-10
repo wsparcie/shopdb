@@ -11,3 +11,16 @@ Python 3.12 required
 * [colorama](https://pypi.org/project/colorama/)
 
 * [bcrypt](https://pypi.org/project/bcrypt/)
+
+
+https://github.com/user-attachments/assets/35df01bf-1848-4ad5-838b-b669cb8c147e
+
+
+![orders](https://github.com/user-attachments/assets/45330294-6e9a-41bb-bf08-19a39f578c9e)
+
+![products](https://github.com/user-attachments/assets/6b9c4b23-e934-49b0-9555-e006e865bf40)
+
+![orders2](https://github.com/user-attachments/assets/eb4488cf-9d12-4b23-a019-5742f81587f2)
+
+![reviews](https://github.com/user-attachments/assets/9a2a47c9-dc1a-4ad4-a5ae-c28ca685865f)
+
