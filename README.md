@@ -2,7 +2,7 @@
 
 **ShopDataMaster**
 
-A simple console-based shop management program featuring automated data generation and a secure login system :3
+A simple console-based shop management program featuring automated data generation and a secure login system
 
 Python 3.12 required
 
