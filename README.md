@@ -12,7 +12,7 @@ Python 3.12 required
 
 * [bcrypt](https://pypi.org/project/bcrypt/)
 
-*The project is currently in its alpha phase :3*
+*The project is currently in its beta phase :3*
 
 
 https://github.com/user-attachments/assets/35df01bf-1848-4ad5-838b-b669cb8c147e
