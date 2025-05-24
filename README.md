@@ -1,8 +1,8 @@
 # ShopDataMaster
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![BCrypt](https://img.shields.io/badge/BCrypt-4.1.2-red.svg)](https://pypi.org/project/bcrypt/)Z
 [![Colorama](https://img.shields.io/badge/Colorama-0.4.6-green.svg)](https://pypi.org/project/colorama/)
-[![BCrypt](https://img.shields.io/badge/BCrypt-4.1.2-red.svg)](https://pypi.org/project/bcrypt/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Beta-orange.svg)]()
 
