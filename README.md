@@ -3,8 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![BCrypt](https://img.shields.io/badge/BCrypt-4.1.2-red.svg)](https://pypi.org/project/bcrypt/)
 [![Colorama](https://img.shields.io/badge/Colorama-0.4.6-green.svg)](https://pypi.org/project/colorama/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Beta-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Alpha-yellow.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A simple console-based shop management system with automated data generation and secure login capabilities.
 
